@@ -1,0 +1,632 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"scrol",
+				"scrolling"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"mx",
+				"max-width"
+			],
+			[
+				"ali",
+				"alignment"
+			],
+			[
+				"border-left",
+				"border-left-color"
+			],
+			[
+				"border-l",
+				"border-left-width"
+			],
+			[
+				"captio",
+				"caption-side"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ma",
+				"masonry"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config.rb",
+			"settings":
+			{
+				"buffer_size": 2325,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Ruby/Ruby.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Ruby/Ruby.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 289.0,
+		"history":
+		[
+			"ruby basic.rb",
+			"ruby :run",
+			":run",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"puts \"hello world\""
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/blogs/javabash/config.rb",
+		"/C/blogs/javabash/source/index.html.erb",
+		"/C/blogs/javabash/source/_sidebar.html.erb",
+		"/C/blogs/javabash/source/javascripts/all.js",
+		"/C/blogs/javabash/source/stylesheets/base.css.scss",
+		"/C/blogs/javabash/source/stylesheets/junk",
+		"/C/RubyProjects/RubyTestProject/basic.rb",
+		"/C/RubyProjects/RubyTestProject/views/resume4.erb",
+		"/C/Users/Phil/Downloads/AnimatedButtons/index7.html",
+		"/C/RubyProjects/RubyTestProject/public/css/r-style.css",
+		"/C/RubyProjects/Scratch/Buttons.html",
+		"/C/RubyProjects/RubyTestProject/config.ru",
+		"/C/RubyProjects/RubyTestProject/public/css/mason.css",
+		"/C/RubyProjects/RubyTestProject/public/css/demo.css",
+		"/C/RubyProjects/RubyTestProject/public/css/carousel.css",
+		"/C/RubyProjects/RubyTestProject/public/js/css_live_reload_init.js",
+		"/C/RubyProjects/RubyTestProject/public/css/layout-simple.css",
+		"/C/RubyProjects/RubyTestProject/views/emailer.erb",
+		"/C/RubyProjects/RubyTestProject/views/splash.erb",
+		"/C/RubyProjects/RubyTestProject/views/splashm.erb",
+		"/C/RubyProjects/RubyTestProject/application.rb",
+		"/C/RubyProjects/RubyTestProject/views/mason.erb",
+		"/C/RubyProjects/RubyTestProject/views/resume3.erb",
+		"/C/Users/Phil/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/RubyProjects/RubyTestProject/public/css/style.css",
+		"/C/RubyProjects/RubyTestProject/views/start.erb",
+		"/C/RubyProjects/RubyTestProject/public/css/cover.css",
+		"/C/RubyProjects/RubyTestProject/londonProject.sublime-project",
+		"/C/RubyProjects/Scratch/BackupCSS",
+		"/C/RubyProjects/RubyTestProject/public/css/resume.css",
+		"/C/RubyProjects/RubyTestProject/public/css/derek.css",
+		"/C/RubyProjects/RubyTestProject/views/resumeOld.erb",
+		"/C/RubyProjects/RubyTestProject/portfolio.erb",
+		"/C/RubyProjects/RubyTestProject/public/css/css.css",
+		"/C/RubyProjects/RubyTestProject/views/resume.erb",
+		"/C/Users/Phil/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Phil/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Phil/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/RubyProjects/RubyTestProject/views/resume2.erb",
+		"/C/RubyProjects/RubyTestProject/config/application.rb",
+		"/C/RubyProjects/RubyTestProject/plugin.rb",
+		"/C/RubyProjects/RubyTestProject/resume4.html",
+		"/C/RubyProjects/RubyTestProject/public/resume3.html",
+		"/C/RubyProjects/RubyTestProject/resume3.html",
+		"/C/RubyProjects/RubyTestProject/public/js/leaflet.map.js",
+		"/C/RubyProjects/RubyTestProject/example02.rb",
+		"/C/RubyProjects/RubyTestProject/js/leaflet.map.js",
+		"/C/RubyProjects/RubyTestProject/resume.html",
+		"/C/RubyProjects/RubyTestProject/public/css/bootstrap (2).css",
+		"/C/RubyProjects/RubyTestProject/Bootstrap/modalExample2.html",
+		"/C/RubyProjects/RubyTestProject/Bootstrap/modalExample.html",
+		"/C/RubyProjects/RubyTestProject/blog.html",
+		"/C/RubyProjects/RubyTestProject/css/style.css",
+		"/C/RubyProjects/RubyTestProject/nested.html",
+		"/C/RubyProjects/RubyTestProject/index.html",
+		"/C/Users/Phil/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Phil/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Bootstrap/js/jquery-2.1.3.js",
+		"/C/Bootstrap/js/jquery-1.11.2.js",
+		"/C/Bootstrap/js/bootstrap.min.js",
+		"/C/Bootstrap/css/style.css",
+		"/C/Users/Phil/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Phil/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Bootstrap/index.html",
+		"/C/Users/Phil/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 208.0,
+		"where_history":
+		[
+			"<current file>",
+			"<current project>",
+			"*.css",
+			"<current project>",
+			"<current file>",
+			"*",
+			"<current project>",
+			"<current file>",
+			"<current file>,<open folders>,C:\\RubyProjects\\RubyTestProject",
+			"<current file>,<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"develop",
+			"conf",
+			"<p class=\"weight\"></p>",
+			"<p class=\"number\"></p>",
+			"selection",
+			"highligh",
+			"max-width: 80%;",
+			"header",
+			"#c",
+			"#",
+			"float",
+			"h2",
+			"padding",
+			"marg",
+			"my",
+			"myc",
+			"button",
+			"ajax",
+			"apache",
+			"cmdp2",
+			"cloud",
+			"img",
+			"header",
+			"container",
+			"feature",
+			"container",
+			"featurette",
+			"col-md-7",
+			"body",
+			"background",
+			"body",
+			"myCarousel *.css",
+			"myCarousel",
+			"mycarousel",
+			"my",
+			"slide",
+			"carousel-indicators",
+			"indic",
+			"js-reveal",
+			"js-hidden",
+			"toggleContent",
+			"0.0.0.0",
+			"9494",
+			"238.029",
+			"92</p>",
+			"technology",
+			"framework",
+			"actinoid",
+			"actinoid metal inner-transition",
+			"class=\"symbol\"",
+			"<p class=\"symbol\"></p>",
+			"class=\"name\">",
+			"\"\" element-item actinoid metal inner-transition \"\"",
+			"png\"</h3>",
+			"\"\" weight \"\"",
+			"\"\" number \"\"",
+			"\"\" symbol \"\"",
+			"\"\" actinoid \"\"",
+			"png \"",
+			"png  \"",
+			"icons/  ",
+			"png \"",
+			"src=\"\"/",
+			">\" \"",
+			"\"\" name \"\"",
+			"\"\"",
+			"icons/\"",
+			"\"\"\"",
+			" \"</h3>",
+			"  \"</h3>",
+			"icons/ ",
+			"favicon",
+			".i",
+			"font",
+			"img",
+			"goog",
+			"carr",
+			"slide",
+			"my",
+			"tech",
+			"src",
+			"000",
+			"ooo",
+			"000",
+			"png",
+			".png",
+			"ui-bg_glass_60_000000_1x400",
+			"<hr",
+			"hr",
+			"div",
+			"hr",
+			"hor",
+			"bor",
+			"lin",
+			"btn",
+			"butt",
+			"fff",
+			"h1",
+			"heading",
+			"hea",
+			".css",
+			"http://getbootstrap.com/examples/carousel/",
+			"cs/",
+			".cs",
+			".js",
+			".css",
+			"border",
+			"font",
+			"my-profession",
+			"my-specifics",
+			"my-activity",
+			"my-message",
+			"my-skill",
+			"my-venture",
+			"my-caption",
+			".my-caption",
+			"h3",
+			"h2",
+			"h4",
+			"font",
+			"img",
+			"thu",
+			"back",
+			"row",
+			"box",
+			"mapbox",
+			"body",
+			"masonry"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"js-reveal",
+			" js-reveal",
+			"",
+			"</p>",
+			"tech",
+			"frame",
+			"tech",
+			"class=\"name\"",
+			"<p class=\"name\"></p>",
+			"class=\"image\">",
+			"\"element-item actinoid metal inner-transition\"",
+			"png\"></h3>",
+			"\"weight\"",
+			"\"number\"",
+			"\"symbol\"",
+			"\"actinoid\"",
+			"png\"",
+			"icons/",
+			"png\"",
+			"src=\"/",
+			">",
+			"\"name\"",
+			"\"",
+			"icons/",
+			"\"",
+			"\"</h3>",
+			"icons/",
+			"current-job-title",
+			"job-description",
+			"employer",
+			"column-content",
+			"column-header",
+			".column-header",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 184.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 172.0
+	},
+	"pinned_build_system": "",
+	"project": "javabash.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 418.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
